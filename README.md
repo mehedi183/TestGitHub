@@ -1,2 +1,2 @@
 # TestGitHub
-Git Tutorial
+Git Tutorial for new users.
